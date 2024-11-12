@@ -1,0 +1,3 @@
+this file is learn how to remove all file and folders from repository 
+
+git rm . -r
